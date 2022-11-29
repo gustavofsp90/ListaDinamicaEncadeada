@@ -1,0 +1,15 @@
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ListaDinamicaEncadeada.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ListaDinamicaEncadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ListaDinamicaEncadeada.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ListaDinamicaEncadeada.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ListaDinamicaEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\bin\Debug\net6.0\ListaDinamicaEncadeada.exe
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\bin\Debug\net6.0\ListaDinamicaEncadeada.deps.json
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\bin\Debug\net6.0\ListaDinamicaEncadeada.runtimeconfig.json
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\bin\Debug\net6.0\ListaDinamicaEncadeada.dll
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\bin\Debug\net6.0\ListaDinamicaEncadeada.pdb
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ListaDinamicaEncadeada.dll
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\refint\ListaDinamicaEncadeada.dll
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ListaDinamicaEncadeada.pdb
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ListaDinamicaEncadeada.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\ListaDinamicaEncadeada\ListaDinamicaEncadeada\obj\Debug\net6.0\ref\ListaDinamicaEncadeada.dll
